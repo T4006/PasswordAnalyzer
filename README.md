@@ -14,4 +14,4 @@ A Python tool for analyzing and improving password strength. The `PasswordAnalyz
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/PasswordAnalyzer.git
+   git clone https://github.com/T4006/PasswordAnalyzer.git
